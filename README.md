@@ -1,1 +1,1 @@
-# Lab1-Dabble
+This project successfully demonstrates Bluetooth communication between an ESP32 and the Dabble App. Using the Dabble Terminal, messages can be sent between the smartphone and ESP32, providing a simple foundation for IoT applications and wireless device control.
